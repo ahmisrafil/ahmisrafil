@@ -8,7 +8,7 @@ Skills:  REACT / JS / HTML / CSS / EXPRESS / NODE JS
 
 - 🔭 I’m currently working on School Management System Web Application 
 - 🌱 I’m currently learning Next Js and Typescript 
-- 📫 How to reach me: ahmisrafil@yahoo.com 
+- 📫 How to reach me: ahmisrafilcse@gmail.com 
 
 
 ## :mailbox: Contact
