@@ -57,3 +57,9 @@ Skills:  REACT / JS / HTML / CSS / EXPRESS / NODE JS
 </div>
 <br/>
 <br/>
+<div align="center" >
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=info-mdshakeeb&theme=github_dark" width="98%">
+</div>
+<br/>
+<br/>
+
